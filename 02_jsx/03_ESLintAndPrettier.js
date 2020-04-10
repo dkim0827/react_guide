@@ -20,4 +20,4 @@ what each line does.
 - always put semicolone
 - don't use tab
 - rather than tap use 2 spaces for indentation
-*/
+ */

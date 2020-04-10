@@ -54,4 +54,4 @@ When you style DOM component in react you need to put it in as object type. in c
 9. Commenting
 {/* something something*/}
 
-*/
+ */

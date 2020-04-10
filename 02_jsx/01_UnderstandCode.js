@@ -18,4 +18,4 @@ types of loader
 - css-loader : able to load CSS file
 - file-loader : able to load web-font or media file
 - babel-loader : load javascript file and translate current version of javascript code to older version of javascript code by using babel.
-*/
+ */
